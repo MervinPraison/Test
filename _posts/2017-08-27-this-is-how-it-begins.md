@@ -1,4 +1,12 @@
 ---
+ID: 1173
+post_title: Favorite Summer Colors
+author: designlab
+post_excerpt: ""
+layout: post
+permalink: /2017/08/27/this-is-how-it-begins/
+published: true
+post_date: 2017-08-27 10:00:49
 ---
 Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.
 
