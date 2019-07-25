@@ -1,12 +1,4 @@
 ---
-ID: 1174
-post_title: Delicious Food in Breakfast
-author: designlab
-post_excerpt: ""
-layout: post
-permalink: /2017/06/04/delicious-food-in-breakfast/
-published: true
-post_date: 2017-06-04 11:00:20
 ---
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing.
 <h4>Nunc nonummy metus</h4>
