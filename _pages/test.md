@@ -8,6 +8,6 @@ permalink: /test/
 published: true
 post_date: 2019-07-25 12:02:36
 ---
-<!-- wp:paragraph -->
-<p>[wpghs_export_short]</p>
-<!-- /wp:paragraph -->
+<!-- wp:shortcode -->
+wpghs_export_short
+<!-- /wp:shortcode -->
