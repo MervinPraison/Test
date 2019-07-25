@@ -4,8 +4,7 @@ post_title: Social Media Trends of the Week
 author: designlab
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/03/05/we-are-gonna-make-our-dreams/
+permalink: /2017/03/05/we-are-gonna-make-our-dreams/
 published: true
 post_date: 2017-03-05 08:36:44
 ---

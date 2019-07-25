@@ -4,8 +4,7 @@ post_title: My Travel Adventures in New York
 author: designlab
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/09/12/my-travel-adventures-in-new-york/
+permalink: /2017/09/12/my-travel-adventures-in-new-york/
 published: true
 post_date: 2017-09-12 09:40:54
 ---

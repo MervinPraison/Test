@@ -4,8 +4,7 @@ post_title: Modern Interior Design of New Office
 author: designlab
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/04/10/modern-interior-design-of-new-office/
+permalink: /2017/04/10/modern-interior-design-of-new-office/
 published: true
 post_date: 2017-04-10 07:51:54
 ---

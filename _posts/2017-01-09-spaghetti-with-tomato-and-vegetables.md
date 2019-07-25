@@ -4,8 +4,7 @@ post_title: Homemade Waffle Recipe
 author: designlab
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/01/09/spaghetti-with-tomato-and-vegetables/
+permalink: /2017/01/09/spaghetti-with-tomato-and-vegetables/
 published: true
 post_date: 2017-01-09 09:00:39
 ---

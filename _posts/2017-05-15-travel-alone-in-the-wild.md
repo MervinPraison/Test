@@ -2,10 +2,7 @@
 ID: 993
 post_title: Travel alone in the wild
 author: designlab
-post_excerpt: >
-  This is a user-defined post excerpt. It
-  should be displayed in place of the post
-  content in archive-index pages.
+post_excerpt: This is a user-defined post excerpt. It should be displayed in place of the post content in archive-index pages.
 layout: post
 permalink: /2017/05/15/travel-alone-in-the-wild/
 published: true
