@@ -1,15 +1,4 @@
 ---
-ID: 993
-post_title: Travel alone in the wild
-author: designlab
-post_excerpt: >
-  This is a user-defined post excerpt. It
-  should be displayed in place of the post
-  content in archive-index pages.
-layout: post
-permalink: /2017/05/15/travel-alone-in-the-wild/
-published: true
-post_date: 2017-05-15 14:38:08
 ---
 Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.

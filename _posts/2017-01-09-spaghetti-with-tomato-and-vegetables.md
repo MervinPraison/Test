@@ -1,13 +1,4 @@
 ---
-ID: 1176
-post_title: Homemade Waffle Recipe
-author: designlab
-post_excerpt: ""
-layout: post
-permalink: >
-  /2017/01/09/spaghetti-with-tomato-and-vegetables/
-published: true
-post_date: 2017-01-09 09:00:39
 ---
 Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui.
 
