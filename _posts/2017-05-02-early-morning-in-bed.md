@@ -1,4 +1,5 @@
 ---
+---
 ID: 996
 post_title: Early Morning in Bed
 author: designlab

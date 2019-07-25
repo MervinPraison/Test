@@ -1,4 +1,5 @@
 ---
+---
 ID: 993
 post_title: Travel alone in the wild
 author: designlab

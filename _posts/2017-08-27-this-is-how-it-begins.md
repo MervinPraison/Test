@@ -1,4 +1,5 @@
 ---
+---
 ID: 1173
 post_title: Favorite Summer Colors
 author: designlab
