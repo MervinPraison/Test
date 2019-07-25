@@ -4,7 +4,7 @@ post_title: Contact
 author: designlab
 post_excerpt: ""
 layout: page
-permalink: http://localhost:8887/w3/blog/
+permalink: /blog/
 published: true
 post_date: 2017-05-20 18:51:43
 ---

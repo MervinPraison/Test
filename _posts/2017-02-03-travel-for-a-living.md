@@ -4,8 +4,7 @@ post_title: Travel for a Living
 author: designlab
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8887/w3/2017/02/03/travel-for-a-living/
+permalink: /2017/02/03/travel-for-a-living/
 published: true
 post_date: 2017-02-03 10:21:15
 ---

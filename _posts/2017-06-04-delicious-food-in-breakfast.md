@@ -4,8 +4,7 @@ post_title: Delicious Food in Breakfast
 author: designlab
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8887/w3/2017/06/04/delicious-food-in-breakfast/
+permalink: /2017/06/04/delicious-food-in-breakfast/
 published: true
 post_date: 2017-06-04 11:00:20
 ---

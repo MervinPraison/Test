@@ -7,8 +7,7 @@ post_excerpt: >
   should be displayed in place of the post
   content in archive-index pages.
 layout: post
-permalink: >
-  http://localhost:8887/w3/2017/05/15/travel-alone-in-the-wild/
+permalink: /2017/05/15/travel-alone-in-the-wild/
 published: true
 post_date: 2017-05-15 14:38:08
 ---

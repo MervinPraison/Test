@@ -5,7 +5,7 @@ author: designlab
 post_excerpt: ""
 layout: post
 permalink: >
-  http://localhost:8887/w3/2017/04/10/modern-interior-design-of-new-office/
+  /2017/04/10/modern-interior-design-of-new-office/
 published: true
 post_date: 2017-04-10 07:51:54
 ---

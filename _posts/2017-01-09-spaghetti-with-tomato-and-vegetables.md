@@ -5,7 +5,7 @@ author: designlab
 post_excerpt: ""
 layout: post
 permalink: >
-  http://localhost:8887/w3/2017/01/09/spaghetti-with-tomato-and-vegetables/
+  /2017/01/09/spaghetti-with-tomato-and-vegetables/
 published: true
 post_date: 2017-01-09 09:00:39
 ---

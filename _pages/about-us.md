@@ -4,7 +4,7 @@ post_title: About Us
 author: designlab
 post_excerpt: ""
 layout: page
-permalink: http://localhost:8887/w3/about-us/
+permalink: /about-us/
 published: true
 post_date: 2017-07-25 19:40:01
 ---

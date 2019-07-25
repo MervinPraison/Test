@@ -4,8 +4,7 @@ post_title: Tips and Insights About Productivity
 author: designlab
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8887/w3/2017/10/15/find-the-best-inspiration/
+permalink: /2017/10/15/find-the-best-inspiration/
 published: true
 post_date: 2017-10-15 09:49:22
 ---

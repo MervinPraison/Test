@@ -4,8 +4,7 @@ post_title: Favorite Summer Colors
 author: designlab
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8887/w3/2017/08/27/this-is-how-it-begins/
+permalink: /2017/08/27/this-is-how-it-begins/
 published: true
 post_date: 2017-08-27 10:00:49
 ---
