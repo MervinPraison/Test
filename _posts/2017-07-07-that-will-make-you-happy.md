@@ -4,7 +4,8 @@ post_title: That will make you happy
 author: designlab
 post_excerpt: ""
 layout: post
-permalink: /2017/07/07/that-will-make-you-happy/
+permalink: >
+  http://localhost:8887/w3/2017/07/07/that-will-make-you-happy/
 published: true
 post_date: 2017-07-07 10:00:20
 ---

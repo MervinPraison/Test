@@ -4,7 +4,8 @@ post_title: Smartwatch Buying Guide
 author: designlab
 post_excerpt: ""
 layout: post
-permalink: /2017/03/25/sweet-november/
+permalink: >
+  http://localhost:8887/w3/2017/03/25/sweet-november/
 published: true
 post_date: 2017-03-25 00:27:25
 ---

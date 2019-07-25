@@ -4,7 +4,8 @@ post_title: Hello world!
 author: praison
 post_excerpt: ""
 layout: post
-permalink: /2019/07/25/hello-world/
+permalink: >
+  http://localhost:8887/w3/2019/07/25/hello-world/
 published: true
 post_date: 2019-07-25 11:07:53
 ---

@@ -4,7 +4,8 @@ post_title: Early Morning in Bed
 author: designlab
 post_excerpt: ""
 layout: post
-permalink: /2017/05/02/early-morning-in-bed/
+permalink: >
+  http://localhost:8887/w3/2017/05/02/early-morning-in-bed/
 published: true
 post_date: 2017-05-02 14:41:11
 ---

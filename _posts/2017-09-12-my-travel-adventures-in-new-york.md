@@ -5,7 +5,7 @@ author: designlab
 post_excerpt: ""
 layout: post
 permalink: >
-  /2017/09/12/my-travel-adventures-in-new-york/
+  http://localhost:8887/w3/2017/09/12/my-travel-adventures-in-new-york/
 published: true
 post_date: 2017-09-12 09:40:54
 ---

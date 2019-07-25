@@ -4,7 +4,7 @@ post_title: Sample Page
 author: praison
 post_excerpt: ""
 layout: page
-permalink: /sample-page/
+permalink: http://localhost:8887/w3/sample-page/
 published: true
 post_date: 2019-07-25 11:07:53
 ---

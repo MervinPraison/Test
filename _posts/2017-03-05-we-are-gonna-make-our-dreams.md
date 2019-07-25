@@ -5,7 +5,7 @@ author: designlab
 post_excerpt: ""
 layout: post
 permalink: >
-  /2017/03/05/we-are-gonna-make-our-dreams/
+  http://localhost:8887/w3/2017/03/05/we-are-gonna-make-our-dreams/
 published: true
 post_date: 2017-03-05 08:36:44
 ---
