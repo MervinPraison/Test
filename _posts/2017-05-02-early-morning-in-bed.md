@@ -1,12 +1,4 @@
 ---
-ID: 996
-post_title: Early Morning in Bed
-author: designlab
-post_excerpt: ""
-layout: post
-permalink: /2017/05/02/early-morning-in-bed/
-published: true
-post_date: 2017-05-02 14:41:11
 ---
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
 
