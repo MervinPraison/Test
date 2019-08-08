@@ -1,5 +1,4 @@
 ---
----
 ID: 1176
 post_title: Homemade Waffle Recipe
 author: designlab

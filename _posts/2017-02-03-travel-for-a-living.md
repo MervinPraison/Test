@@ -1,5 +1,4 @@
 ---
----
 ID: 1150
 post_title: Travel for a Living
 author: designlab
